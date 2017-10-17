@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IF26_TP4</string>
+
+    <!--activity_main-->
+    <string name="label_nom">Nom :</string>
+    <string name="saisi_nom">Saisissez votre nom</string>
+    <string name="label_prenom">Prenom :</string>
+    <string name="saisi_prenom">Saisissez votre prenom</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+
+    <!--activity_result-->
+    <string name="ar_edit">mon edit</string>
+    <string name="ar_button1">button1</string>
+
+
+    <!--activity_grid-->
+    <string name="ag_button1">button1</string>
+    <string name="ag_button2">button2</string>
+    <string name="ag_button3">button3</string>
+    <string name="ag_button4">button4</string>
+</resources>
